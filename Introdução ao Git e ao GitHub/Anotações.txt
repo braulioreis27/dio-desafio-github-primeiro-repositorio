@@ -1,0 +1,4 @@
+link de download git
+https://git-scm.com/
+
+Git bash é um terminal de gerenciar o git
